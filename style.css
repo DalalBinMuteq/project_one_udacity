@@ -1,14 +1,24 @@
-
+*{
+    background-color: white;/*add*/
+}
 
  #header_one{
-color: gray;
+color: black;
 text-align: right;
+font-style: normal;/*add*/
 
 };
 #header_two{
-    color: gray;
+    color: #7d97ad; /*add*/
 text-align: left;
 } 
+#sub_header_one{/*add*/
+    font-style: oblique;
+    text-align: right;
+}
+#imge{ /*add*/
+    border-width: 22px ; /*add*/
+}
 
 
 
