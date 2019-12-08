@@ -1,0 +1,110 @@
+*{
+    background-color: white;/*add*/
+}
+
+ #header_one{ /*style for header one*/
+color: black;
+text-align: right;
+font-style: italic; /*add*/
+font-weight: bold;
+
+line-height: 1.2;
+font-family: Arial, sans-serif;
+};
+#header_two{           /*style for header */
+    color: #7d97ad; /*add*/
+text-align: left;
+} 
+#sub_header_one{/*add*/
+    font-style: oblique;
+    text-align: right;
+}
+#imge{ /*add*/
+    border-width: 22px ; /*add*/
+}
+#image_udacity{ /*add*/
+    background-image: image();/*add*/
+    border-width: 15px 15px 15px 15px;/*add*/
+    max-width: 500px;/*add*/
+    max-height: 50px;/*add*/
+    direction: ltr;
+
+}
+/* table{
+    background-color: white;
+    widows: 50px;
+} */
+
+ #table_images{
+    widows: 400px;
+    height: 350px;
+    padding: 50px;
+    padding-right: 12px
+} 
+.sentense{
+    font-size: 22px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #header_one{
+color: gray;
+text-align: right;
+
+};
+
+#figure img {
+  
+  
+    width: 300px;
+    border: 1px solid #000;
+    padding-left: 1em;
+    background-color: rgba(255, 255, 37, 0.7);
+    position: fixed;
+    left: -265px;
+    top: 200px;
+}
+
+#images {
+    max-width: width 30px;
+    max-height: 150px;
+}
+#first_image{
+    /* max-width: 220px;
+    max-height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: center;
+    
+    float: right; */
+    /* margin-right:auto; */
+    /* width: 40px;
+}
+#header_two{
+    color: gray;
+text-align: left;
+} */ 
